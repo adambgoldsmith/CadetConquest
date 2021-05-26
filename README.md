@@ -3,7 +3,7 @@
 
 Screenshots:
 
-![AppIconV1edited](https://user-images.githubusercontent.com/52685070/119596845-caca5800-bd94-11eb-88ba-377847ce6bb0.png)
+![ingameSSedited](https://user-images.githubusercontent.com/52685070/119596904-e7ff2680-bd94-11eb-890a-094e8006bc3d.png)
 ![gameoverSSedited](https://user-images.githubusercontent.com/52685070/119596813-c00fc300-bd94-11eb-9a82-3d0d525283db.png)
 ![MenuSS](https://user-images.githubusercontent.com/52685070/119596831-c56d0d80-bd94-11eb-9d5d-62eb85ff80c2.png)
 
