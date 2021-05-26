@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5a046977086b2734bb6a7af35033061d
+timeCreated: 1493956731
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Intv
+  fontNames:
+  - Pixel Intv
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

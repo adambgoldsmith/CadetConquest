@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5d26d2b77bae8d543857e5c3fc9151a0
+timeCreated: 1493960652
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - openGameOver: {instanceID: 0}
+  - jetpackSound: {fileID: 8300000, guid: 4061001b0fb08ae4691745482faf9bd7, type: 3}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
